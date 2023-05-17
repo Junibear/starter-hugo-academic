@@ -1,11 +1,9 @@
 ---
 title: Brian D. Guerrero
 role: PHD Graduate in Curriculum and Instruction
-bio: "My research interests include exploring "
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+bio: My research interests include learning about how video games can be used to
+  help motivate and teach.
+interests: []
 social:
   - icon: envelope
     icon_pack: fas
@@ -50,6 +48,3 @@ highlight_name: true
 first_name: Alice
 email: ""
 ---
-
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-{style="text-align: justify;"}
